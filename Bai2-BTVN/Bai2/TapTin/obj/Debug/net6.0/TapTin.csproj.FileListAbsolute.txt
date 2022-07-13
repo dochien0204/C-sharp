@@ -1,0 +1,15 @@
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\TapTin\bin\Debug\net6.0\TapTin.exe
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\TapTin\bin\Debug\net6.0\TapTin.deps.json
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\TapTin\bin\Debug\net6.0\TapTin.runtimeconfig.json
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\TapTin\bin\Debug\net6.0\TapTin.dll
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\TapTin\bin\Debug\net6.0\TapTin.pdb
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\TapTin\obj\Debug\net6.0\TapTin.csproj.AssemblyReference.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\TapTin\obj\Debug\net6.0\TapTin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\TapTin\obj\Debug\net6.0\TapTin.AssemblyInfoInputs.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\TapTin\obj\Debug\net6.0\TapTin.AssemblyInfo.cs
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\TapTin\obj\Debug\net6.0\TapTin.csproj.CoreCompileInputs.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\TapTin\obj\Debug\net6.0\TapTin.dll
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\TapTin\obj\Debug\net6.0\refint\TapTin.dll
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\TapTin\obj\Debug\net6.0\TapTin.pdb
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\TapTin\obj\Debug\net6.0\TapTin.genruntimeconfig.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\TapTin\obj\Debug\net6.0\ref\TapTin.dll

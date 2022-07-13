@@ -1,0 +1,15 @@
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\DanhSach\bin\Debug\net6.0\DanhSach.exe
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\DanhSach\bin\Debug\net6.0\DanhSach.deps.json
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\DanhSach\bin\Debug\net6.0\DanhSach.runtimeconfig.json
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\DanhSach\bin\Debug\net6.0\DanhSach.dll
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\DanhSach\bin\Debug\net6.0\DanhSach.pdb
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\DanhSach\obj\Debug\net6.0\DanhSach.csproj.AssemblyReference.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\DanhSach\obj\Debug\net6.0\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\DanhSach\obj\Debug\net6.0\DanhSach.AssemblyInfoInputs.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\DanhSach\obj\Debug\net6.0\DanhSach.AssemblyInfo.cs
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\DanhSach\obj\Debug\net6.0\DanhSach.csproj.CoreCompileInputs.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\DanhSach\obj\Debug\net6.0\DanhSach.dll
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\DanhSach\obj\Debug\net6.0\refint\DanhSach.dll
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\DanhSach\obj\Debug\net6.0\DanhSach.pdb
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\DanhSach\obj\Debug\net6.0\DanhSach.genruntimeconfig.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\DanhSach\obj\Debug\net6.0\ref\DanhSach.dll

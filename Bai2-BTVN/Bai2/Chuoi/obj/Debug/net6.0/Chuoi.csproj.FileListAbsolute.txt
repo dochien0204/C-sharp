@@ -1,0 +1,15 @@
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\Chuoi\bin\Debug\net6.0\Chuoi.exe
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\Chuoi\bin\Debug\net6.0\Chuoi.deps.json
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\Chuoi\bin\Debug\net6.0\Chuoi.runtimeconfig.json
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\Chuoi\bin\Debug\net6.0\Chuoi.dll
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\Chuoi\bin\Debug\net6.0\Chuoi.pdb
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\Chuoi\obj\Debug\net6.0\Chuoi.csproj.AssemblyReference.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\Chuoi\obj\Debug\net6.0\Chuoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\Chuoi\obj\Debug\net6.0\Chuoi.AssemblyInfoInputs.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\Chuoi\obj\Debug\net6.0\Chuoi.AssemblyInfo.cs
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\Chuoi\obj\Debug\net6.0\Chuoi.csproj.CoreCompileInputs.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\Chuoi\obj\Debug\net6.0\Chuoi.dll
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\Chuoi\obj\Debug\net6.0\refint\Chuoi.dll
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\Chuoi\obj\Debug\net6.0\Chuoi.pdb
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\Chuoi\obj\Debug\net6.0\Chuoi.genruntimeconfig.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-BTVN\Bai2\Chuoi\obj\Debug\net6.0\ref\Chuoi.dll

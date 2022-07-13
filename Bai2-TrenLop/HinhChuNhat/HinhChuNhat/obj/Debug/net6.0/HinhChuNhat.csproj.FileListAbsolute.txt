@@ -1,0 +1,15 @@
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-TrenLop\HinhChuNhat\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.exe
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-TrenLop\HinhChuNhat\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.deps.json
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-TrenLop\HinhChuNhat\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.runtimeconfig.json
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-TrenLop\HinhChuNhat\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.dll
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-TrenLop\HinhChuNhat\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.pdb
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-TrenLop\HinhChuNhat\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.csproj.AssemblyReference.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-TrenLop\HinhChuNhat\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-TrenLop\HinhChuNhat\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.AssemblyInfoInputs.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-TrenLop\HinhChuNhat\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.AssemblyInfo.cs
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-TrenLop\HinhChuNhat\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.csproj.CoreCompileInputs.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-TrenLop\HinhChuNhat\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.dll
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-TrenLop\HinhChuNhat\HinhChuNhat\obj\Debug\net6.0\refint\HinhChuNhat.dll
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-TrenLop\HinhChuNhat\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.pdb
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-TrenLop\HinhChuNhat\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.genruntimeconfig.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai2-TrenLop\HinhChuNhat\HinhChuNhat\obj\Debug\net6.0\ref\HinhChuNhat.dll
