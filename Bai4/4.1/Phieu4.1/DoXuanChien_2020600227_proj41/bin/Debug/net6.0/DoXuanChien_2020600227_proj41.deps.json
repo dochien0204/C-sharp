@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DoXuanChien_2020600227_proj41/1.0.0": {
+        "runtime": {
+          "DoXuanChien_2020600227_proj41.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoXuanChien_2020600227_proj41/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

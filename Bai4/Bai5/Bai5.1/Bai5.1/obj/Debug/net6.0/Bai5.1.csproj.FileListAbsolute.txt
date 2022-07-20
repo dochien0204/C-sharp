@@ -1,0 +1,15 @@
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai4\Bai5\Bai5.1\Bai5.1\bin\Debug\net6.0\Bai5.1.exe
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai4\Bai5\Bai5.1\Bai5.1\bin\Debug\net6.0\Bai5.1.deps.json
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai4\Bai5\Bai5.1\Bai5.1\bin\Debug\net6.0\Bai5.1.runtimeconfig.json
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai4\Bai5\Bai5.1\Bai5.1\bin\Debug\net6.0\Bai5.1.dll
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai4\Bai5\Bai5.1\Bai5.1\bin\Debug\net6.0\Bai5.1.pdb
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai4\Bai5\Bai5.1\Bai5.1\obj\Debug\net6.0\Bai5.1.csproj.AssemblyReference.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai4\Bai5\Bai5.1\Bai5.1\obj\Debug\net6.0\Bai5.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai4\Bai5\Bai5.1\Bai5.1\obj\Debug\net6.0\Bai5.1.AssemblyInfoInputs.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai4\Bai5\Bai5.1\Bai5.1\obj\Debug\net6.0\Bai5.1.AssemblyInfo.cs
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai4\Bai5\Bai5.1\Bai5.1\obj\Debug\net6.0\Bai5.1.csproj.CoreCompileInputs.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai4\Bai5\Bai5.1\Bai5.1\obj\Debug\net6.0\Bai5.1.dll
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai4\Bai5\Bai5.1\Bai5.1\obj\Debug\net6.0\refint\Bai5.1.dll
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai4\Bai5\Bai5.1\Bai5.1\obj\Debug\net6.0\Bai5.1.pdb
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai4\Bai5\Bai5.1\Bai5.1\obj\Debug\net6.0\Bai5.1.genruntimeconfig.cache
+D:\Mon hoc tren truong\Ky Phu ky4\C#\Bai4\Bai5\Bai5.1\Bai5.1\obj\Debug\net6.0\ref\Bai5.1.dll
